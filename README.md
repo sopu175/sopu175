@@ -1,7 +1,7 @@
 ## Hi, I’m saif 👋
-Welcome to my profile! Currently i'm working at [Dcastalia](https://dcastalia.com/) as a Wordpress Developer. Thanks for visiting and I'd love to connect!
-<a href="https://sopu.me/">My Blog</a>
-<a href="https://link.sopu.me/">My Portfolio<a>
+Welcome to my profile! Currently i'm working at [Dcastalia](https://dcastalia.com/) as a Wordpress Developer. Thanks for visiting and I'd love to connect!<br>
+<a href="https://sopu.me/" target="_blank">My Blog</a><br>
+<a href="https://link.sopu.me/" target="_blank">My Portfolio<a>
 
 
 <a href="http://facebook.com/saif2456" target=_blank><img height="20" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
