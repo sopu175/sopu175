@@ -31,12 +31,9 @@ I am a Full Stack Developer with PHP, React, WordPress, API ! Currently i'm work
 
 ![saif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopu175&theme=darcula&show_icons=true&hide_border=true&layout=compact)
   
-  
-    ### Stats
- ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=sopu175&theme=darcula&show_icons=true&hide_border=true&layout=compact) 
-  
 
-  ## Where to connect me
+
+  ## Connect Me
 <a href="http://facebook.com/saif2456" target=_blank><img height="20" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/s_o_p_u/" target=_blank><img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/saif2456/" target=_blank><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
