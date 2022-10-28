@@ -20,8 +20,11 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 I am a Full Stack Developer with PHP, React, WordPress, API ! Currently i'm working at [Dcastalia](https://dcastalia.com/) as a Full Stack Developer. Thanks for visiting and I'd love to connect!<br>
-<a href="https://sopu.live/" target="_blank">My Blog</a><br>
-![saif's blog](https://sopu.live/)
+
+
+#### Click to visit my blog
+
+[![image](https://user-images.githubusercontent.com/83091643/198748936-15953cb2-f172-471f-bb4d-c013c24ee2ec.png)](https://sopu.live/)
 
   
   ### Numbers
