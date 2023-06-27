@@ -16,7 +16,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%23a4c639?style=flat-square&logo=docker&logoColor=white)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+
+
+
+<a href="https://app.daily.dev/saif2456"><img src="https://api.daily.dev/devcards/f922320edec14ba487e8a98542d7b60f.png?r=ymq" width="400" alt="Saiful Islam's Dev Card"/></a>
+
 I am a Full Stack Developer with PHP, React, WordPress, API and Founder of [Sopu's Blog](https://sopu.live/) ! Currently i'm working at [Dcastalia](https://dcastalia.com/) as a Full Stack Developer. Thanks for visiting and I'd love to connect!<br>
 
 
