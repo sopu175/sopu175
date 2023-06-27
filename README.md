@@ -40,6 +40,6 @@ I am a Full Stack Developer with PHP, React, WordPress, API and Founder of [Sopu
 <a href="https://www.linkedin.com/in/saif2456/" target=_blank><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://codepen.io/saif175" target=_blank><img height="20" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 
-https://api.daily.dev/devcards/f922320edec14ba487e8a98542d7b60f.png?r=20h
+
 
 
