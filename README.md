@@ -22,7 +22,7 @@ I am a Full Stack Developer with PHP, React, WordPress, API and Founder of [Sopu
 
 #### Click to visit my blog
 
-[![image](https://user-images.githubusercontent.com/83091643/198748936-15953cb2-f172-471f-bb4d-c013c24ee2ec.png)](https://sopu.live/)
+[![image](https://user-images.githubusercontent.com/83091643/198748936-15953cb2-f172-471f-bb4d-c013c24ee2ec.png)](https://devsopu.com/)
 
   
   ### Numbers
