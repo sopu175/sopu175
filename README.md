@@ -17,7 +17,7 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-%23a4c639?style=flat-square&logo=docker&logoColor=white)
 
-I am a Full Stack Developer with PHP, React, WordPress, API and Founder of [Sopu's Blog](https://sopu.live/) ! Currently i'm working at [Dcastalia](https://dcastalia.com/) as a Full Stack Developer. Thanks for visiting and I'd love to connect!<br>
+I am a Full Stack Developer with PHP, React, WordPress, API and Founder of [Sopu's Blog](https://devsopu.com/) ! Currently i'm working at [Dcastalia](https://dcastalia.com/) as a Full Stack Developer. Thanks for visiting and I'd love to connect!<br>
 
 
 #### Click to visit my blog
