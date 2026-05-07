@@ -1,139 +1,182 @@
-# Hi, I’m Saif (sopu175) 👋
+<div align="center">
 
-[![Website](https://img.shields.io/badge/Website-devsopu.com-00A8FF?style=flat-square&logo=googlesitekit&logoColor=white)](https://devsopu.com/)
-[![Working at Dcastalia](https://img.shields.io/badge/Working%20at-Dcastalia-4CAF50?style=flat-square&logo=aboutdotme&logoColor=white)](https://www.dcastalia.com/)
-[![Experience](https://img.shields.io/badge/Experience-7%20Years-7FDBB6?style=flat-square)]
-[![Location](https://img.shields.io/badge/Based%20in-Bangladesh-1DA1F2?style=flat-square&logo=googleearth&logoColor=white)]
+# Hi, I'm Saif Islam 👋
+### Full-Stack Developer • WordPress Engineer • React / Next.js Specialist
 
----
+<p>
+  <a href="https://devsopu.com/">
+    <img src="https://img.shields.io/badge/Portfolio-devsopu.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/saif2456/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saif%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-## 👨‍💻 About Me
+  <a href="https://github.com/sopu175">
+    <img src="https://img.shields.io/github/followers/sopu175?style=for-the-badge" />
+  </a>
+</p>
 
-Hey — I’m **Saif**, a **Full-Stack Developer** with 7+ years of professional experience building production-ready web applications, APIs, and WordPress ecosystems.  
+<p>
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/Working%20at-Dcastalia-2563EB?style=flat-square" />
+</p>
 
-Currently, I’m part of **[Dcastalia](https://www.dcastalia.com/)**, developing digital platforms, leading frontend engineering, and mentoring developers.  
-I specialize in **modern web architecture**, **headless CMS**, and **performance-optimized design systems**.
-
-💡 I write technical guides and publish open-source snippets at [**devsopu.com**](https://devsopu.com/).
-
----
-
-## 💼 What I Do
-- ⚡ **Full-Stack Web Development:** Laravel, Node.js, React, Next.js, Yii2  
-- 🎨 **Frontend Engineering:** Semantic HTML5, CSS3, TailwindCSS, GSAP, Framer Motion  
-- 🧱 **Headless CMS:** WordPress REST API, GraphQL, custom theme/plugin architecture  
-- 🧩 **API Design:** REST, JWT, OAuth2, third-party integrations  
-- 🚀 **Performance & SEO:** Core Web Vitals, caching, lazy loading, accessibility audits  
-- 🐳 **DevOps:** Docker, CI/CD pipelines, VPS configuration, automated deployments  
-- 🧠 **Team Leadership:** Code reviews, mentoring, process optimization  
+</div>
 
 ---
 
-## 🧠 Core Technologies
+# 👨‍💻 About Me
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+I’m **Saif Islam**, a passionate **Full-Stack Developer** focused on building scalable, performant, and production-ready web applications.
+
+I specialize in:
+
+- ⚛️ React.js & Next.js Applications
+- 🧠 Headless WordPress Architecture
+- 🚀 Performance Optimization & SEO
+- 🔌 API Design & Integrations
+- 🐳 DevOps & Deployment Workflow
+- 🧩 Custom CMS & Plugin Development
+
+Currently working at **Dcastalia**, contributing to modern digital platforms, frontend systems, backend workflows, and engineering optimization.
+
+💡 I also write technical content and share development insights at **[devsopu.com](https://devsopu.com/)**
+
+---
+
+# ⚡ Tech Stack
+
+## Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+## Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-41B883?style=flat-square&logo=yii&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-41B883?style=flat-square)
+
+## CMS & Database
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 
-### Databases
-**MySQL**, **MariaDB**, **PostgreSQL**, **Redis**, **MongoDB**, **Supabase**
-
-### Tools & Utilities
-**Git**, **Composer**, **NPM/Yarn**, **Webpack/Vite**, **ESLint**, **Prettier**, **PHPUnit**, **Jest**, **Postman**, **Bitbucket**, **Figma**, **cURL**, **VS Code**
-
-### Hosting / Infrastructure
-**Netlify**, **DigitalOcean**, **AWS (Basic)**, **Plesk**, **cPanel**, **VPS**, **Nginx**, **Docker**, **Cloudflare CDN**, **Vercel**, **GitHub Actions**
+## Tools & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-## 🧩 Featured Projects
+# 🧩 Featured Projects
 
-### ⚙️ PHP / Laravel / Yii2 / WordPress CMS
+## 🏦 Shanta Securities Ltd.
+🔗 https://www.shantasecurities.com/
 
-#### 🏦 [Shanta Securities Ltd.](https://www.shantasecurities.com/)
-> A brokerage and financial data platform built on Yii2 CMS.  
-**Stack:** Yii2, PHP, MySQL, Bootstrap  
-**Highlights:** Modular backend, automated content updates, and SEO-optimized templates.
+Enterprise brokerage & financial platform built with Yii2 CMS.
 
-#### 🏍 [CFMOTO Bangladesh](https://cfmotobd.com/)
-> Corporate site for the official distributor of CFMOTO.  
+**Stack:** Yii2, PHP, MySQL  
+**Highlights:** Modular backend, SEO optimization, automated workflows
+
+---
+
+## 🏍 CFMOTO Bangladesh
+🔗 https://cfmotobd.com/
+
+Official corporate platform for CFMOTO Bangladesh.
+
 **Stack:** WordPress, ACF, Elementor  
-**Highlights:** Custom dealer locator, high-speed architecture, SEO-driven content flow.
+**Highlights:** Dealer management system, SEO-focused architecture
 
-#### 🎓 [Maximus Education & Migration](https://maximuseducation.com.au/)
-> Educational consultancy & migration platform.  
+---
+
+## 🎓 Maximus Education & Migration
+🔗 https://maximuseducation.com.au/
+
+Education consultancy & migration platform.
+
 **Stack:** WordPress, PHP, ACF Pro  
-**Highlights:** Dynamic course data, improved conversion forms, lead management integration.
-
-#### 🏫 [NZUAC (New Zealand University Admission Centre)](https://nzuac.com/)
-> Student admission and consultation platform.  
-**Stack:** WordPress, CMB2, REST API  
-**Highlights:** Automated application submission workflow, faster admin review panel.
-
-#### ⚙️ [YGEN Automation](http://ygenautomation.com/)
-> Industrial automation company platform.  
-**Stack:** WordPress, Elementor  
-**Highlights:** Enhanced page performance (95+ Lighthouse), structured SEO schema.
-
-#### 🔥 [Omera LPG](https://www.omeralpg.com/)
-> Corporate site for an energy leader.  
-**Stack:** WordPress, PHP, REST API  
-**Highlights:** Modern UI refresh, improved mobile speed, and optimized caching strategy.
+**Highlights:** Dynamic content management, lead generation optimization
 
 ---
 
-### ⚛️ React / Next.js / Headless WordPress
+## 👗 Shanta Lifestyle
+🔗 https://shantalifestyle.com/
 
-#### 👗 [Shanta Lifestyle](https://shantalifestyle.com/)
-> Premium lifestyle e-commerce platform powered by Headless WordPress + React.  
-**Stack:** React, Next.js, WordPress REST API, TailwindCSS  
-**Highlights:** Dynamic product rendering, API caching, optimized for Core Web Vitals.
+Headless e-commerce platform powered by React & WordPress.
 
----
-
-## 🌍 Community & Open Source
-- ✍️ Writes articles on **Next.js performance**, **Headless CMS integration**, and **modern WordPress engineering** at [devsopu.com](https://devsopu.com/)  
-- 💬 Mentors junior devs, conducts internal workshops at Dcastalia  
-- 🧩 Contributes to open-source WordPress plugins and Laravel utilities  
+**Stack:** React, Next.js, REST API, TailwindCSS  
+**Highlights:** API-driven frontend, Core Web Vitals optimization
 
 ---
 
-## 💡 What I Can Help With
-- End-to-end **React / Next.js app** or **Laravel / WordPress** development  
-- **Headless CMS** architecture & API integrations  
-- **Performance audits**, SEO, caching, and scalability tuning  
-- **Custom plugin/theme development** and backend workflows  
-- **Technical leadership** and code-review culture building  
+# 🌍 Community & Open Source
+
+- ✍️ Technical writing on **Next.js**, **Headless CMS**, and **Performance Optimization**
+- 💬 Mentoring junior developers
+- 🧩 Building reusable tools and development utilities
+- 🚀 Promoting clean architecture and scalable engineering practices
 
 ---
 
-## 🔗 Connect with Me
-- 🌐 Website: [https://devsopu.com/](https://devsopu.com/)
-- 💼 LinkedIn: [https://www.linkedin.com/in/saif2456/](https://www.linkedin.com/in/saif2456/)
-- 🧑‍💻 GitHub: [https://github.com/sopu175](https://github.com/sopu175)
-- 🎨 CodePen: [https://codepen.io/saif175](https://codepen.io/saif175)
+# 📊 GitHub Analytics
 
-> 💬 For collaborations or freelance projects — reach out via **LinkedIn** or **GitHub Discussions**.
+<div align="center">
 
----
 
-## 📊 GitHub Stats
-![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sopu175&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopu175&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sopu175&theme=darcula&hide_border=true)
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sopu175&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
-## 🏷️ Repository Topics
-`Full-Stack` • `PHP` • `Laravel` • `Yii2` • `WordPress` • `React` • `Next.js` • `Headless-CMS` • `REST-API` • `JavaScript` • `TypeScript` • `MySQL` • `PostgreSQL` • `MongoDB` • `Redis` • `Supabase` • `Docker` • `DigitalOcean` • `Netlify` • `AWS` • `Frontend` • `Backend` • `Performance` • `SEO` • `UI/UX` • `GSAP` • `TailwindCSS` • `Web-Development` • `API-Integration` • `CI/CD` • `Vite` • `DevOps` • `Open-Source`
+# 🏷️ Focus Areas
+
+```txt
+Full-Stack Development
+React.js
+Next.js
+TypeScript
+Node.js
+Laravel
+Yii2
+WordPress
+Headless CMS
+REST API
+Performance Optimization
+SEO
+Docker
+CI/CD
+TailwindCSS
+DevOps
+```
 
 ---
 
-⭐ *Thanks for visiting my GitHub — explore my work, read my blog, and connect for collaboration or mentorship.*
+# 🤝 Connect With Me
+
+- 🌐 Portfolio → https://devsopu.com/
+- 💼 LinkedIn → https://www.linkedin.com/in/saif2456/
+- 🧑‍💻 GitHub → https://github.com/sopu175
+- 🎨 CodePen → https://codepen.io/saif175
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile
+
+Building scalable digital experiences with modern web technologies.
+
+</div>
